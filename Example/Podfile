@@ -1,4 +1,4 @@
-use_frameworks!
+#use_frameworks!
 
 target 'HR_Loader_Example' do
   pod 'HR_Loader', :path => '../'

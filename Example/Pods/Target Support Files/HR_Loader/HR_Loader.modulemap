@@ -1,0 +1,6 @@
+framework module HR_Loader {
+  umbrella header "HR_Loader-umbrella.h"
+
+  export *
+  module * { export * }
+}
